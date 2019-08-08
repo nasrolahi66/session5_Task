@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">session5_Task</string>
+    <string name="title">Title</string>
+    <string name="type">Type</string>
+    <string name="year">Year</string>
+    <string name="search">Search</string>
+</resources>
